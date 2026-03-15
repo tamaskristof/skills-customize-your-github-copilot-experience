@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-rest-api",
+      "title": "REST APIs with FastAPI",
+      "description": "Build a homework tracker API with FastAPI, JSON endpoints, and request validation.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2026-03-22",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
